@@ -2,7 +2,17 @@
 
 ### About me
 
-Student from LZU
+Student from LZU ， Majoring in Information Security
+
+CTFer，Developer
+
+Language Use : Python , C , Golang , Java
+
+```
+While (1){
+    Sleep();
+}
+```
 
 
 <a href="https://github.com/sky130">
