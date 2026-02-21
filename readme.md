@@ -45,6 +45,6 @@ https://github.com/lyscf/FlowSage
 Email: lyscf@proton.me  
 
 GPG Fingerprint:  
-F2865201C32B03CD1C9D09F3936DA6F6DE00199C  
+1D97C5DD6D879D5A62284B5C83FC133199CBC1C7  
 
 Encrypted communication preferred.
